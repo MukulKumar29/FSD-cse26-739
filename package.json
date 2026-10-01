@@ -1,7 +1,23 @@
 {
+<<<<<<< HEAD
   "dependencies": {
     "express": "^5.2.1",
     "express-graphql": "^0.12.0",
     "graphql": "^15.10.3"
+=======
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "assignment1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+>>>>>>> f2ff105667bff85eecade2738ead9103bb51be53
   }
 }
